@@ -1,0 +1,27 @@
+
+.card {
+    transition: transform 0.3s, box-shadow 0.3s; 
+   
+}
+
+.card:hover {
+    transform: translateY(-10px);   
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); 
+
+}
+
+.Me2{
+ padding-top: 150px;
+ margin-left: 100px;
+ margin-right: 90px;
+}
+
+.Me2 h1{
+    margin-left: 500px;
+}
+
+.col{
+    padding-top: 20px;
+}
+
+
